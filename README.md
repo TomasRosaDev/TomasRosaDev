@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomás Rosa</h1>
-<h3 align="center">Im a Portuguese IT student at the University of Aveiro.</h3>
+<h3 align="center">A Portuguese IT student at the University of Aveiro with a passion for web development and 3D art.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
